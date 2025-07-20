@@ -1,3 +1,10 @@
+---
+layout: none
+---
+
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
 #Name: Shin Anastasia#
 *Email: anastasiamolosh@yandex.by*
 *I only know Russian*
